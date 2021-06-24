@@ -2,11 +2,10 @@
 
 Você deve baixar o codigo createExcel e usar da seguinte forma:
 
- ---> Na mesma pasta em que está o codigo createExcel, crie um novo arquivo (.py)
- ---> Neste novo arquivo (.py) escreva:
-            ----> from createExcel import excel
-                  
-                  excel('aqui de tem o caminho do arquivo (.xlsx)')
+---> Na mesma pasta em que está o codigo createExcel, crie um novo arquivo (.py)
+---> Neste novo arquivo (.py) escreva:
+--------> from createExcel import excel
+--------> excel('aqui de tem o caminho do arquivo (.xlsx)')
              
             Exemplo: Criarei um arquivo (.py) chamado script.py
                      Meu arquivo (.xlsx) tem o nome de PLANILHA
